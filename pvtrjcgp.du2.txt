@@ -1,0 +1,6 @@
+﻿Basic Album app
+#
+# Write a message for tag:
+#   Albums1.0
+# Lines starting with '#' will be ignored.
+
